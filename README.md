@@ -1,13 +1,12 @@
-![Adalab](_src/assets/images/logo-adalab-80px.png)
+![MarinaCouso](https://github.com/MarinaCouso)
 
-# Adalab web starter kit
+Esta paǵina es un ejemplo de diseño responsive de una landing page que contiene artículos y algunas interacciones.
 
-Ahoy! Esta es nuestro Starter Kit en node/gulp para este primer contacto con el desarrollo web
-Incluye SCSS, un sistema de plantillas HTML y un web server.
+<img src="https://github.com/MarinaCouso/landing-page/blob/master/info/LandingPage1.png" />
 
 ## Guía de inicio rápido
 
-Necesitarás instalar [Node.js](https://nodejs.org/) y [Gulp](https://gulpjs.com) para trabajar con este Starter Kit, luego:
+Necesitarás instalar [Node.js](https://nodejs.org/) y [Gulp](https://gulpjs.com) para trabajar con Adalab Starter Kit (cuyo repo puedes encontrar en: https://github.com/Adalab/Adalab-web-starter-kit ), luego:
 
 1. Descarga o clona el repositorio
 2. Instala las dependencias locales con `npm install`
